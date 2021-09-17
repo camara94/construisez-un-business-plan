@@ -1,8 +1,8 @@
 # Construisez un business plan
-L'objectif premier de ce cours est de clarifier ce que l'on attend de vous, afin que vous puissiez préparer au mieux votre business plan. Il présente ensuite les éléments incontournables que vous devrez faire apparaître. Enfin, nous ferons un zoom sur les projections financières à élaborer.
+L'objectif premier de cette formation est de clarifier ce que l'on attend de nous, afin que nous puissions préparer au mieux notre business plan. elle présente ensuite les éléments incontournables que nous devrons faire apparaître. Enfin, nous ferons un zoom sur les projections financières à élaborer.
 
 ## Objectifs
-A la fin de cette formation, vous serez capable de...
+A la fin de cette formation, nous serons capable de...
 * Rédiger un business plan
 * Mener les étapes incontournables d'un business plan
 * Construire des projetions financières à partir d'un business plan
