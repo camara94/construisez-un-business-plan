@@ -26,3 +26,7 @@ Cela veut dire que grâce à notre **Business Plan** vous pouvons convaincre les
 
 ## Exprimons qui nous sommes à travers notre business plan
 Le sens caché d'un **Business Plan** est d'exprimer qui nous sommes en tant que porteur de de projet. Deux messages sublimons doivent apparaître notre **professionnalisme** et notre **philosophie** du projet.
+### Notre Professionnalisme
+* Quantité de travaille:
+Notre **Business Plan** doit montrer un vrai travaille de questionnement, de recherche et deboche de réponses
+* Transparence: on doit être claire avec nos partenaires en montrant nos zones sombres et inquiétantes, en ayant une impression plus honnête et être conscient des difficultés pour pouvoir bien les afronter.
