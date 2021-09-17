@@ -23,3 +23,6 @@ Cela veut dire que grâce à notre **Business Plan** vous pouvons convaincre les
 
 ## Exemple de Business Plan
 * [Airbnb](https://github.com/camara94/document-technique/blob/main/exemples-business-plan/airbnb-original-deck-2008.pdf)
+
+## Exprimons qui nous sommes à travers notre business plan
+Le sens caché d'un **Business Plan** est d'exprimer qui nous sommes en tant que porteur de de projet. Deux messages sublimons doivent apparaître notre **professionnalisme** et notre **philosophie** du projet.
