@@ -19,3 +19,7 @@ Et dans d'autre cas il designe uniquement des projections financières, mais ces
 ## A quoi sa sert
 Un **Business Plan** est un instrument ou outil qui doit nous permettre de convaincre des tiers à nous suivre pour la réalisation de notre projet ou entreprise.
 Cela veut dire que grâce à notre **Business Plan** vous pouvons convaincre les investisseurs à investir leur argent dans notre projet, mais aussi convaincre les employés et partenaires à nous accompagner  dans notre projet. Pour parvenir à cet objectif, le **Business Plan** ne doit pas descrire parfaitement les paramètres de notre projet car un investisseur n'investit pas sur document aussi pertinent soit-il. Le **Business Plan** doit indirectement faire passer des messages sur nous même et sur la manière dont nous envisageons mener notre projet car se sont meta messages qui emportent la conviction.
+
+
+## Exemple de Business Plan
+* [Airbnb](https://github.com/camara94/document-technique/blob/main/exemples-business-plan/airbnb-original-deck-2008.pdf)
