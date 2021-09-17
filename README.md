@@ -30,3 +30,5 @@ Le sens caché d'un **Business Plan** est d'exprimer qui nous sommes en tant que
 * Quantité de travaille:
 Notre **Business Plan** doit montrer un vrai travaille de questionnement, de recherche et deboche de réponses
 * Transparence: on doit être claire avec nos partenaires en montrant nos zones sombres et inquiétantes, en ayant une impression plus honnête et être conscient des difficultés pour pouvoir bien les afronter.
+### Philosophie du projet
+En plus du **professionnalisme**, notre business plan doit exprimer la philosophie du projet. C'est à dire toute équipe qui porte un projet partage une vision pour ce projet. Une envie intime
