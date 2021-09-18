@@ -37,3 +37,5 @@ Vous devez choisir le format adapté pour votre business plan:
 * Adaptez ce format au **contexte** : "executive summary", pour la phase de prise de contact, document à projeter pour la phase de présentation, et document complet pour la phase d'investigation.
 * Sauf cas particulier, réservez la **confidentialité** au dernier document. 
 * Choisissez le plan qui raconte votre **histoire**, de votre point de départ à votre point d'arrivée, votre ambition.
+  
+[Link to my project tracking](https://docs.google.com/spreadsheets/d/1vmtYR12TCQPa4bAmcMs1BRz4rx3-k25lat2v0Ha9sxM/edit?usp=sharing)
