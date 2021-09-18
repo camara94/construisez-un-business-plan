@@ -32,3 +32,8 @@ Notre **Business Plan** doit montrer un vrai travaille de questionnement, de rec
 * Transparence: on doit être claire avec nos partenaires en montrant nos zones sombres et inquiétantes, en ayant une impression plus honnête et être conscient des difficultés pour pouvoir bien les afronter.
 ### Philosophie du projet
 En plus du **professionnalisme**, notre business plan doit exprimer la philosophie du projet. C'est à dire toute équipe qui porte un projet partage une vision pour ce projet. Une envie intime
+## Choisissez le format adapté
+Vous devez choisir le format adapté pour votre business plan: 
+* Adaptez ce format au **contexte** : "executive summary", pour la phase de prise de contact, document à projeter pour la phase de présentation, et document complet pour la phase d'investigation.
+* Sauf cas particulier, réservez la **confidentialité** au dernier document. 
+* Choisissez le plan qui raconte votre **histoire**, de votre point de départ à votre point d'arrivée, votre ambition.
